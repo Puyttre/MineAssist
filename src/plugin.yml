@@ -1,0 +1,5 @@
+name: MineAssist
+authors: [Puyttre, JWitz]
+version: 1.0
+
+main: com.mineassist.MineAssist
