@@ -1,4 +1,4 @@
 # Default: Gold, Iron, Coal, Lapis, Diamond, Redstone (inactive), Redstone(active), Glowstone, Emerald, Quartz
 acceptable-blocks: [14, 15, 16, 21, 56, 73, 74, 89, 129, 153]
+place-drops-in-inventory: true
 debug: false
-
